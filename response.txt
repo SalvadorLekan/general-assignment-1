@@ -1,0 +1,45 @@
+1. E
+	Reason: If we picture the grid as a 3X3 grid. We can say the black circle moves four (4) turns per round, the white circle moves one (1) turn per round, while the shaded square move three (3) turns per round.
+
+2. A
+	Reason: The isometric sides and the number of dots in the shape decrease by one (1) on each round.
+
+3. B
+
+4. $#
+	Reason: The value in the center box is a concatenation of the center symbol of the left and right box.
+	
+5. B
+	Reason: Statement B puts Martha in certainty that she is the playground, and statement D confirms that she is indeed playing marbles.
+	
+6. B
+	Reason: The center of the argument against nationalization was maintainance which is already covered by the goernment in the first place.
+	
+7. B
+
+8. 15, 14, 13, 8
+	10.5, 10.5, 10/11, 5
+	
+9. 79
+
+10. 103,680
+
+11. B
+
+12. C
+
+13. D
+
+14. 103,680
+
+15. 120
+
+16. D
+
+17. (~(d/2))^2, 2500
+
+18. 25
+
+19. The circumference of a circle is the derivative of its area
+
+20. 924
